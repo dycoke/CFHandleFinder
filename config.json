@@ -1,0 +1,7 @@
+{
+    "contestId": "1985",
+    "clauses": [
+        ["A", "COMPILATION_ERROR"],
+        ["F", "TIME_LIMIT_EXCEEDED"]
+    ]
+}
